@@ -1,0 +1,20 @@
+body {
+    background-color: #b3b2aa;
+}
+
+h1, h2 {
+    color: #486254;
+}
+
+p{
+    color: #396e35;
+}
+
+div {
+    width:200px;
+    height: 100px;
+    background-color: light blue;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 30px;
+}
