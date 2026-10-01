@@ -1,4 +1,4 @@
-# Project 03 Final Project Scope Statement
+# Final Project Scope Statement
 
 ## Project Purpose
 
@@ -19,4 +19,4 @@ The project will create a two page website focused on running. The homepage will
 
 ## Exclusions
 
-The project will not include more than two webpages. It will not include advanced JavaScript features, user accounts, online shopping, or a database. The website will also not include a mobile application or other advanced functionality outside of the required HTML and CSS features.
+The project will be limited to two pages. It will not include advanced JavaScript features, user accounts, online shopping, or a database. The website will also not include a mobile application or other advanced functionality outside of the required HTML and CSS features.
